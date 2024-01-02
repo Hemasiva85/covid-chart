@@ -1,3 +1,10 @@
+Setup for Chart application start:
+===============================
+Need to install nodeJS
+Need to install angularcli
+node server.js
+ng serve 
+
 Setup table:
 ==========
 CREATE TABLE covidcountry (
