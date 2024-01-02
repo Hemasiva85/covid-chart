@@ -1,3 +1,10 @@
+Implementation:
+================
+In this project i have used data is country wise data. The project contains Two drop downs one is for selecting the  options (confirmed,deaths etc..) and other for selecting chart types 
+Current implemenetation done with only two charts one is barchart other is line chart. 
+
+
+
 Setup for Chart application start:
 ===============================
 Need to install nodeJS
